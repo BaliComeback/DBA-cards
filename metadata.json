@@ -1,0 +1,8 @@
+{
+  "name": "GigaComps AI",
+  "description": "Identificador y valuador de tarjetas deportivas en tiempo real con Inteligencia Artificial.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

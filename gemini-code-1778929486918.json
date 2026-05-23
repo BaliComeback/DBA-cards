@@ -1,0 +1,34 @@
+[
+  {
+    "equipo": "New York Yankees",
+    "jugador": "Steve Sax",
+    "marca_ano": "Upper Deck 1990",
+    "numero": "25",
+    "tipo": "Base / Destacada",
+    "cantidad": 3
+  },
+  {
+    "equipo": "Chicago Cubs",
+    "jugador": "Greg Maddux",
+    "marca_ano": "Topps 1988",
+    "numero": "361",
+    "tipo": "Estrella HOF",
+    "cantidad": 1
+  },
+  {
+    "equipo": "Chicago Cubs",
+    "jugador": "Rafael Palmeiro",
+    "marca_ano": "Topps 1987",
+    "numero": "634",
+    "tipo": "Rookie Card",
+    "cantidad": 1
+  },
+  {
+    "equipo": "Chicago Cubs",
+    "jugador": "Andre Dawson",
+    "marca_ano": "Donruss 1989 (MVP)",
+    "numero": "3",
+    "tipo": "Inserto / Estrella HOF",
+    "cantidad": 1
+  }
+]
